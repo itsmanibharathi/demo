@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1be91444.css",
+    "main.js": "/static/js/main.053291e7.js",
+    "static/js/787.cf552c2a.chunk.js": "/static/js/787.cf552c2a.chunk.js",
+    "static/media/banner.png": "/static/media/banner.5f0da9d9bf0404d88e32.png",
+    "static/media/TBIlogo.png": "/static/media/TBIlogo.269dfd196f200aedc5f0.png",
+    "static/media/profile.png": "/static/media/profile.dbb54d6df15ec6a95d39.png",
+    "static/media/keclogo.png": "/static/media/keclogo.b745879617780b8bfd67.png",
+    "static/media/IIC_logo.png": "/static/media/IIC_logo.d9ac219ca1b182b0d299.png",
+    "static/media/profileicon2.png": "/static/media/profileicon2.4f4a01e6d4dca6a6e4fe.png",
+    "static/media/emdclogo22.png": "/static/media/emdclogo22.8e3d4b7fdfbcd6bbc21c.png",
+    "static/media/Maskgroup.png": "/static/media/Maskgroup.7ec2f9a3f38569fe0fd2.png",
+    "static/media/human.png": "/static/media/human.4861a3283fe83aba18c3.png",
+    "static/media/dept-bg.png": "/static/media/dept-bg.66f25c8f84cd0896c9eb.png",
+    "static/media/left_graph.png": "/static/media/left_graph.9d3a33f413dd9e3b04db.png",
+    "static/media/profileicon.png": "/static/media/profileicon.b7241bc41f64a0576ce4.png",
+    "index.html": "/index.html",
+    "main.1be91444.css.map": "/static/css/main.1be91444.css.map",
+    "main.053291e7.js.map": "/static/js/main.053291e7.js.map",
+    "787.cf552c2a.chunk.js.map": "/static/js/787.cf552c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be91444.css",
+    "static/js/main.053291e7.js"
+  ]
+}
